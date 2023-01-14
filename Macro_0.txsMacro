@@ -1,0 +1,18 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "List",
+    "shortcut": "",
+    "tag": [
+        "\\begin{outline}",
+        "\\1",
+        "\\1",
+        "\\1",
+        "\\end{outline}"
+    ],
+    "trigger": "bbb"
+}

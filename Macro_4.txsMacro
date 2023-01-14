@@ -1,0 +1,18 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "New Figure",
+    "shortcut": "",
+    "tag": [
+        "\\begin{figure}[H]",
+        "\\centering",
+        "\\includegraphics[width=.5\\textwidth]{/home/yang/ResearchNotes/resources/00075}",
+        "\\caption{}",
+        "\\end{figure}"
+    ],
+    "trigger": "newfig"
+}

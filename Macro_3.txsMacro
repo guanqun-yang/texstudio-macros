@@ -1,0 +1,34 @@
+{
+    "abbrev": "",
+    "description": [
+        ""
+    ],
+    "formatVersion": 1,
+    "menu": "",
+    "name": "3 Figures Side by Side",
+    "shortcut": "",
+    "tag": [
+        "\\begin{figure}[H]",
+        "\t\\centering",
+        "\t\\begin{subfigure}[b]{.32\\textwidth}",
+        "\t\t\\centering",
+        "\t\t\\includegraphics[width=\\textwidth]{/home/yang/ResearchNotes/resources/000}",
+        "\t\t\\caption{}",
+        "\t\\end{subfigure}",
+        "\t\\hfill",
+        "\t\\begin{subfigure}[b]{.32\\textwidth}",
+        "\t\t\\centering",
+        "\t\t\\includegraphics[width=\\textwidth]{/home/yang/ResearchNotes/resources/000}",
+        "\t\t\\caption{}",
+        "\t\\end{subfigure}",
+        "\t\\hfill",
+        "\t\\begin{subfigure}[b]{.32\\textwidth}",
+        "\t\t\\centering",
+        "\t\t\\includegraphics[width=\\textwidth]{/home/yang/ResearchNotes/resources/000}",
+        "\t\t\\caption{}",
+        "\t\\end{subfigure}",
+        "\\end{figure}",
+        ""
+    ],
+    "trigger": "1by3"
+}
